@@ -65,7 +65,10 @@ button{
 let points = 0;
 
 let codes = {
-    "678F5":0.10
+    "678F5":0.10;
+    "645F6":0.10;
+    "567T4":0.10
+    
 };
 
 let usedCodes = [];
